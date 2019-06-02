@@ -27,7 +27,73 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/*******************************************************/
+.divStyle {
+  position: relative;
+}
+
+.titleStyle {
+  color: rgb(118, 118, 118);
+  padding-left: 5px;
+  font-size: 15;
+}
+
+
+.buttonStyle {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: yellow;
+  background-color: green;
+  /* margin-left: 10px; */
+}
+
+.MyRoundImage {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin-right: 5px;
+  border-radius: 50%;
+}
+
+.Card {
+  height: 250px;
+  width: 20%;
+  background-color: rgb(128, 226, 71);
+  border: 1px solid rgb(32, 30, 30);
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-right: 20px;
+  float: left;
+}
+
+.MyImage {
+  float: left;
+  width: 273px;
+  height: 180px;
+  margin-right: 5px;
+}
+
+.myinput {
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  /* float: left; */
+}
+
+.linedive {
+  height: 40px;
+  width: 55%;
+  background-color: rgb(141, 156, 133);
+  border: 1px solid rgb(32, 30, 30);
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-right: 20px;
+
 }
