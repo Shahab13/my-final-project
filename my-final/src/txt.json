@@ -1,0 +1,776 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2591,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "p6pURGdBBmIC",
+   "etag": "RH5znT/XCVA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p6pURGdBBmIC",
+   "volumeInfo": {
+    "title": "The Encyclopedia of Indian Philosophies: Yoga: India's philosophy of meditation",
+    "authors": [
+     "Gerald James Larson",
+     "Karl H. Potter"
+    ],
+    "publisher": "Motilal Banarsidass Publishe",
+    "publishedDate": "1970",
+    "description": "The volume traces the intellectual history of Patanjala Yoga philosophy from the early centuries of the Common Era through the twentieth century. It also provides a systematic discussions of the philosophy of classical Yoga. Particular attention is given to the meaning of concentration (Samadhi), engrossment (samapatti) and the extra-ordinary cognitive capacities (vibhutis, siddhis) and the role that these notions play in the Yoga philosophy, which are relevant for issues currently under discussion in contemporary western philosophy of mind. The volume compares and contrasts classical yoga philosophy with classical Samkhya and with Indian Buddhist thought. Although the primary focus of the volume is on Patanjala Yoga, the system of Hatha Yoga and other satellite systems of Yoga are discussed as well, and an attempt is made to differentiate clearly the classical system of Yoga Sastra from Hatha Yoga and the other satellite systems. Some twenty-eight Sanskrit texts of Patanjala. Yoga are summarized or noted in the volume. Twenty-six volumes of Hatha Yoga and the texts of some other satellite systems are also included. Altogether the volume contains summaries and or notations for some seventy-five Sanskrit texts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "812083349X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788120833494"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 784,
+    "printType": "BOOK",
+    "categories": [
+     "Buddhism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=p6pURGdBBmIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=p6pURGdBBmIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=p6pURGdBBmIC&printsec=frontcover&dq=yoga&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=p6pURGdBBmIC&dq=yoga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Encyclopedia_of_Indian_Philosophies.html?hl=&id=p6pURGdBBmIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p6pURGdBBmIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Yoga are summarized or noted in the volume. Twenty-six volumes of Hatha Yoga and the texts of some other satellite systems are also included. Altogether the volume contains summaries and or notations for some seventy-five Sanskrit texts."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4o3HLIHHnmwC",
+   "etag": "X2fXCZoeLQ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4o3HLIHHnmwC",
+   "volumeInfo": {
+    "title": "Yoga : The Supreme Science",
+    "authors": [
+     "Osho"
+    ],
+    "publisher": "Penguin Books India",
+    "publishedDate": "2009-01-01",
+    "description": "Drawing on the teachings of Patanjali, Osho gives an entirely new perspective on the fundamental questions of life, the nature of heaven, religion and God. For Osho it is not a question of being good or bad , or of a God in the sky, but of each individual becoming aware of his being and attaining kaivalya the ultimate state of enlightenment when the meditator goes beyond all desire. This process draws on the inner science of yoga.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780143063186"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0143063189"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4o3HLIHHnmwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4o3HLIHHnmwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4o3HLIHHnmwC&printsec=frontcover&dq=yoga&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4o3HLIHHnmwC&dq=yoga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Yoga_The_Supreme_Science.html?hl=&id=4o3HLIHHnmwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4o3HLIHHnmwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "For Osho it is not a question of being good or bad , or of a God in the sky, but of each individual becoming aware of his being and attaining kaivalya the ultimate state of enlightenment when the meditator goes beyond all desire."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FVLqCyTMFikC",
+   "etag": "jDZ2uFijHRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FVLqCyTMFikC",
+   "volumeInfo": {
+    "title": "Yoga, Tantra and Meditation in Daily Life",
+    "authors": [
+     "Janakanada Swami Saraswau"
+    ],
+    "publisher": "Weiser Books",
+    "publishedDate": "1992-02-01",
+    "description": "The author demonstrates how you can practice Tantric Yoga and go on living your life as you usually do, adding another habit to the ones you already have. The step-by-step, well-illustrated instructions in this book take you from beginners' exercises to those for advanced students. You will learn how to meditate easily, breathe correctly during yoga or meditation, and how to do easy yoga poses and exercises, such as the back program to improve posture and maintain youthfulness, and a great deal more!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877287681"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0877287686"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FVLqCyTMFikC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FVLqCyTMFikC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FVLqCyTMFikC&printsec=frontcover&dq=yoga&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FVLqCyTMFikC&dq=yoga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Yoga_Tantra_and_Meditation_in_Daily_Life.html?hl=&id=FVLqCyTMFikC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Yoga_Tantra_and_Meditation_in_Daily_Life-sample-pdf.acsm?id=FVLqCyTMFikC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FVLqCyTMFikC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The step-by-step, well-illustrated instructions in this book take you from beginners&#39; exercises to those for advanced students."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2AQZJW8yRpgC",
+   "etag": "Lrot8DK57EI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2AQZJW8yRpgC",
+   "volumeInfo": {
+    "title": "Yoga",
+    "subtitle": "Mastering the Basics",
+    "authors": [
+     "Sandra Anderson",
+     "Rolf Sovik"
+    ],
+    "publisher": "Himalayan Institute Press",
+    "publishedDate": "2000",
+    "description": "This book covers all aspects of yoga practice including postures, breathing, relaxation, meditation, lifestyle and fundamental philosophy. Provides two illustrated posture sequences and has 420 photographs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "089389155X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780893891558"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2AQZJW8yRpgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2AQZJW8yRpgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2AQZJW8yRpgC&printsec=frontcover&dq=yoga&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2AQZJW8yRpgC&dq=yoga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Yoga.html?hl=&id=2AQZJW8yRpgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2AQZJW8yRpgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book covers all aspects of yoga practice including postures, breathing, relaxation, meditation, lifestyle and fundamental philosophy. Provides two illustrated posture sequences and has 420 photographs."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V07l6gThaV0C",
+   "etag": "8ADqTxLvjiM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V07l6gThaV0C",
+   "volumeInfo": {
+    "title": "Yoga",
+    "subtitle": "Immortality and Freedom",
+    "authors": [
+     "Mircea Eliade",
+     "Willard Ropes Trask",
+     "David Gordon White"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2009",
+    "description": "Lays the groundwork for a Western understanding of Yoga. Drawing on years of study and experience in India, this book provides a comprehensive survey of Yoga in theory and practice from its earliest antecedents in the Vedas through the twentieth century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691142033"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691142036"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 536,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=V07l6gThaV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=V07l6gThaV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=V07l6gThaV0C&printsec=frontcover&dq=yoga&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=V07l6gThaV0C&dq=yoga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Yoga.html?hl=&id=V07l6gThaV0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=V07l6gThaV0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "First published in English in 1958, the author lays the groundwork for a Western understanding of Yoga, providing a comprehensive survey of Yoga in theory and practice from its earliest antecedents in the Vedas through the twentieth century ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pekOz0C9OhgC",
+   "etag": "qgjMZsqkROM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pekOz0C9OhgC",
+   "volumeInfo": {
+    "title": "Yoga - Philosophy for Everyone",
+    "subtitle": "Bending Mind and Body",
+    "authors": [
+     "Fritz Allhoff",
+     "Liz Stillwaggon Swan"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-09-07",
+    "description": "Stimulates thoughts and expands awareness of the philosophicaldimensions of yoga in its many forms and practices Yoga — Philosophy for Everyone presents a widearray of perspectives by people whose lives have been touched byyoga. Addressing myriad aspects of yoga's divergent paths, topicsinclude body image for men and women; the religious and spiritualaspects of yoga; and issues relating to ethics, personal growth,and the teaching of yoga. Written by philosophers andnon-philosophers alike, with contributions from professional yogainstructors, lifelong practitioners, and first-timers, Yoga— Philosophy for Everyone offers a wealth of material forboth enjoyment and deep reflection.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118121436"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118121430"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pekOz0C9OhgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pekOz0C9OhgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pekOz0C9OhgC&printsec=frontcover&dq=yoga&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pekOz0C9OhgC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pekOz0C9OhgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pekOz0C9OhgC&rdid=book-pekOz0C9OhgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Yoga_Philosophy_for_Everyone-sample-epub.acsm?id=pekOz0C9OhgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Yoga_Philosophy_for_Everyone-sample-pdf.acsm?id=pekOz0C9OhgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pekOz0C9OhgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book addresses myriad aspects of yoga&#39;s divergent paths, such as: Body image and awareness (for men and women) Religious and spiritual aspects of yoga Ethics, personal growth, and the teaching of yoga Physical and psychological ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fPPBXyMM_LwC",
+   "etag": "8bBT/nsAjjQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fPPBXyMM_LwC",
+   "volumeInfo": {
+    "title": "Pure Yoga",
+    "authors": [
+     "Yogi Pranavananda",
+     "Tony Rodriquez",
+     "Kanshiram (ed.)"
+    ],
+    "publisher": "Motilal Banarsidass Publ.",
+    "publishedDate": "1997-01-01",
+    "description": "In Yoga the question of boundaries, the constant talk about the various yogas, is, to a very large extent, an artificial one, mind-created. Translators and commentators have constantly and shortsightedly referred to the Gheranda Samhita as a Hatha-Yoga classic. Normally presented as the most basic and material of all yogas, it is understood quite literally by all sorts of authorities and grossly interpreted by guru and disciple alike. Such teachings, when partially grasped and separated from the whole, constitute a poor caricature of the Sacred Science. The same is true of so many `exciting` and `new` meditation techniques being propounded nowadays; transcendent only in their refined materialism, in the What`s in it for me attitude. Such reflections have prompted the author to reveal, for the first time, many of the inner or spiritual aspects of this Pure Yoga treatise. Hence the present work, which is much more than just Hatha-Yoga teachings, as popularly and most improperly understood. Though whole and eternal, Yoga is constantly being lost; it is also constantly being found. Wise indeed is he who finds it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8120815084"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788120815087"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 189,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fPPBXyMM_LwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fPPBXyMM_LwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fPPBXyMM_LwC&printsec=frontcover&dq=yoga&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fPPBXyMM_LwC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fPPBXyMM_LwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 80.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 64.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fPPBXyMM_LwC&rdid=book-fPPBXyMM_LwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.0E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.4E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Pure_Yoga-sample-pdf.acsm?id=fPPBXyMM_LwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fPPBXyMM_LwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9lxn1Xyjz1EC",
+   "etag": "xwyc1CfG2tI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9lxn1Xyjz1EC",
+   "volumeInfo": {
+    "title": "Yoga: The Ever present Flower",
+    "authors": [
+     "Osho"
+    ],
+    "publisher": "Diamond Pocket Books (P) Ltd.",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8128801252"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788128801259"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Spiritual life"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9lxn1Xyjz1EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9lxn1Xyjz1EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9lxn1Xyjz1EC&printsec=frontcover&dq=yoga&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9lxn1Xyjz1EC&dq=yoga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Yoga_The_Ever_present_Flower.html?hl=&id=9lxn1Xyjz1EC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9lxn1Xyjz1EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xesDAAAAMBAJ",
+   "etag": "5f9K18qLSc8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xesDAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Yoga Journal",
+    "publishedDate": "1975-07",
+    "description": "For more than 30 years, Yoga Journal has been helping readers achieve the balance and well-being they seek in their everyday lives. With every issue,Yoga Journal strives to inform and empower readers to make lifestyle choices that are healthy for their bodies and minds. We are dedicated to providing in-depth, thoughtful editorial on topics such as yoga, food, nutrition, fitness, wellness, travel, and fashion and beauty.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 24,
+    "printType": "MAGAZINE",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xesDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xesDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xesDAAAAMBAJ&printsec=frontcover&dq=yoga&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xesDAAAAMBAJ&dq=yoga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Yoga_Journal.html?hl=&id=xesDAAAAMBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xesDAAAAMBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "For more than 30 years, Yoga Journal has been helping readers achieve the balance and well-being they seek in their everyday lives."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Az6r3nERCekC",
+   "etag": "WErkySp4lt0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Az6r3nERCekC",
+   "volumeInfo": {
+    "title": "Yoga Nidra",
+    "subtitle": "Awaken to Unqualified Presence Through Traditional Mind-Body Practices",
+    "authors": [
+     "Richard Miller"
+    ],
+    "publisher": "Sounds True",
+    "publishedDate": "2010-04-01",
+    "description": "Please note that if this title is purchased in eBook/Kindle format, the audio (CD) portion will not be included. One of the most enjoyable parts of a yoga class comes when we rest in savasana—the \"corpse\" pose—and realize deep serenity, a sense of effortless joy, and a glimpse into our true nature as unqualified presence. How is this so? Master teacher Richard Miller explains that this experience is a manifestation of yoga nidra, the meditative state of mind-body union at the heart of all yoga practice. A powerful integration of book and CD audio learning, Yoga Nidra is an ancient tantric yoga path that leads to inner freedom. Through accessible language appropriate for any level of practice, Miller takes us step-by-step through the traditional techniques of relaxation and meditation to help us move toward the realization of \"unqualified presence\"—the ultimate aim of yoga—a goal unreachable through posture practice alone. Through his expert guidance, students will experience: Deep relaxation for relief from day-to-day stress The development of \"one-pointedness\"—a key to spiritual awakening Healing from painful emotions, such as fear, grief, and anger More effective and energizing sleep, and much more Suitable for both beginners and advanced practitioners—but new to most Westerners—Yoga Nidra provides an unmatched way to experience the culmination of the art of yoga, and the deeper physical, emotional, and spiritual rewards that are its promise.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1591798442"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591798446"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Az6r3nERCekC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Az6r3nERCekC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Az6r3nERCekC&printsec=frontcover&dq=yoga&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Az6r3nERCekC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Az6r3nERCekC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.65,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Az6r3nERCekC&rdid=book-Az6r3nERCekC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.495E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8650000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Yoga_Nidra-sample-epub.acsm?id=Az6r3nERCekC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Yoga_Nidra-sample-pdf.acsm?id=Az6r3nERCekC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Az6r3nERCekC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "How is this so? Master teacher Richard Miller explains that this experience is a manifestation of yoga nidra, the meditative state of mind-body union at the heart of all yoga practice."
+   }
+  }
+ ]
+}

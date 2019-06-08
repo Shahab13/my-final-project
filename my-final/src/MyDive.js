@@ -1,6 +1,7 @@
 import React, { Component } from "react";
-import Card from "./Card";
-import SelectCurrency from "./SelectCurrency";
+// import Card from "./Card";
+import BookSearch from "./BookSearch";
+// import SelectCurrency from "./SelectCurrency";
 
 export default class MyDive extends Component {
   state = {
@@ -26,10 +27,10 @@ export default class MyDive extends Component {
 
   render() {
     return (
-      <div>
-        <SelectCurrency />
-
-        <Card />
+      <div className="conainer">
+        {/* <SelectCurrency /> */}
+        <BookSearch />
+        {/* <Card /> */}
       </div>
     );
   }

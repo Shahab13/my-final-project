@@ -34,6 +34,13 @@
 }
 
 /*******************************************************/
+
+.my-card {
+
+  background-color: rgb(208, 221, 240);
+
+}
+
 .divStyle {
   position: relative;
 }
