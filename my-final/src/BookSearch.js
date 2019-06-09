@@ -30,7 +30,8 @@ export default class BookSearch extends Component {
 
   render() {
     return (
-      <div className="container-fluid">
+      <div className="container">
+        <br />
         <div className="container">
           <form
             onSubmit={this.formPreventDefault}
@@ -44,6 +45,7 @@ export default class BookSearch extends Component {
                 aria-describedby="basic-addon2"
               />
               <div className="input-group-append">
+                &nbsp;
                 <button className="btn btn-primary" type="submit">
                   Search
                 </button>

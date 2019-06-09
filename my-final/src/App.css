@@ -37,7 +37,9 @@
 
 .my-card {
 
-  background-color: rgb(208, 221, 240);
+  background-color: rgb(228, 241, 231);
+  display: inline-block;
+  position: relative;
 
 }
 
@@ -69,22 +71,9 @@
   border-radius: 50%;
 }
 
-.Card {
-  height: 250px;
-  width: 20%;
-  background-color: rgb(128, 226, 71);
-  border: 1px solid rgb(32, 30, 30);
-  margin-left: 40px;
-  margin-top: 20px;
-  margin-right: 20px;
-  float: left;
-}
 
-.MyImage {
-  float: left;
-  width: 273px;
-  height: 180px;
-  margin-right: 5px;
+.my-image {
+  max-height: 280px
 }
 
 .myinput {
@@ -103,4 +92,9 @@
   margin-top: 10px;
   margin-right: 20px;
 
+}
+
+.my-div {
+  /* position: absolute; */
+  float: left;
 }
