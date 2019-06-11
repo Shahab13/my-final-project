@@ -21,11 +21,10 @@ export default class BookSearch extends Component {
       e.preventDefault();
     }
   };
-  //https://www.googleapis.com/books/v1/volumes?q=yoga
+
   handleChangeFrom = event => {
     this.setState({ myForm: event.target.value });
     this.value = event.target.value;
-    //console.log(this.value);
   };
 
   render() {

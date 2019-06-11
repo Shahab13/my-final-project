@@ -9,21 +9,14 @@ export default class Card extends Component {
   myData = [];
   componentDidMount = () => {};
   titleChange = () => {
-    //console.log("zzzzzzzzzzzzzzzzzzz");
     this.myApi = `https://www.googleapis.com/books/v1/volumes?q=${
       this.props.xx
     }`;
     fetch(this.myApi)
       .then(response => response.json())
       .then(data => {
-        // this.setState({ bookData: data["items"] });
-        // this.value = data["items"];
-        // this.picLink = data["items"][0].volumeInfo.imageLinks.thumbnail;
-        //console.log(this.picLink);
         this.setState({ bookData: data.items });
         this.myData = data.items;
-        // console.log(this.state.bookData);
-        //console.log(this.myData);
       })
       .catch(error => {
         this.setState({ error: true });
@@ -32,7 +25,6 @@ export default class Card extends Component {
   };
 
   stringCheck = str => {
-    // console.log(str);
     if (typeof str !== "undefined") {
       return str.substring(0, 80);
     } else {
@@ -66,22 +58,14 @@ export default class Card extends Component {
         </div>
       );
     });
-    //console.log(this.myData);
 
     if (this.props.xx !== "") {
       if (this.oldvalue !== this.props.xx) {
         this.titleChange();
         this.oldvalue = this.props.xx;
       }
-      console.log(this.myData);
-      return (
-        <div className="my-div container-fluid card-columns ">{temp}</div>
 
-        // <div className="row container">
-        //   <div className="col-sm-4">{temp}</div>
-        //   {/* <div class="col-sm-6">Card 2</div> */}
-        // </div>
-      );
+      return <div className="my-div container-fluid card-columns ">{temp}</div>;
     } else {
       return <div className="container">Search somthing!</div>;
     }
